@@ -433,8 +433,8 @@
         },
         "jupyterhub-traefik-proxy": {
             "editable": true,
-            "git": "https://github.com/opendatahub-io/traefik-proxy.git",
-            "ref": "b468da04bf0057e9baeb458de6c3f9f677cfb79e"
+            "git": "https://github.com/VaishnaviHire/traefik-proxy.git",
+            "ref": "e6a8f82171508128ffea84c49c71fb67ab4ecb48"
         },
         "kubernetes": {
             "hashes": [

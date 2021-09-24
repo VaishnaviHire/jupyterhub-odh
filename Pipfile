@@ -9,7 +9,7 @@ verify_ssl = true
 openshift = "==0.11.2"
 jupyterhub-singleuser-profiles = "==0.6.0"
 oauthenticator = {ref = "d98936da37569b7bb400c6854b07041dce3e7f87",git = "https://github.com/opendatahub-io/oauthenticator.git", editable = true}
-jupyterhub-traefik-proxy = {ref = "b468da04bf0057e9baeb458de6c3f9f677cfb79e", git = "https://github.com/opendatahub-io/traefik-proxy.git", editable = true}
+jupyterhub-traefik-proxy = {ref = "e6a8f82171508128ffea84c49c71fb67ab4ecb48", git = "https://github.com/VaishnaviHire/traefik-proxy.git", editable = true}
 jupyterhub-idle-culler = "==1.1"
 
 [requires]
