@@ -1,4 +1,4 @@
-git+https://github.com/opendatahub-io/oauthenticator@42c4790a2db77ff4259a74e15ed94bea72144932#egg=oauthenticator
+git+https://github.com/VaishnaviHire/oauthenticator@60367fec05e39b50246a8dd1eebe7df4db2fb72e#egg=oauthenticator
 
 # It is critical that if this dependency is changed, the following files need to be copied from the designated version of jupyterhub-singleuser-profiles
 # to the jsp-npm-deps subdirectory AND VICE VERSA! This is to support Cachito builds where the final dep list at build time must be known pre-build
