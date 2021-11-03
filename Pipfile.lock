@@ -611,7 +611,7 @@
         },
         "oauthenticator": {
             "editable": true,
-            "git": "https://github.com/VaishnaviHire/oauthenticator.git",
+            "git": "https://github.com/opendatahub-io/oauthenticator.git",
             "ref": "60367fec05e39b50246a8dd1eebe7df4db2fb72e"
         },
         "oauthlib": {
