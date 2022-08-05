@@ -627,7 +627,7 @@
         "jupyterhub-singleuser-profiles": {
             "editable": true,
             "git": "https://github.com/opendatahub-io/jupyterhub-singleuser-profiles.git",
-            "ref": "d7646f9e67588263b9d5557abd6ec7e15d9ede69"
+            "ref": "b2c02f212481348c6420cb40003280ec58e18990"
         },
         "jupyterhub-traefik-proxy": {
             "editable": true,
